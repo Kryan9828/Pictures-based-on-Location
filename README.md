@@ -1,5 +1,1 @@
-# Kenzie Academy JavaScript Assignment
-
-Complete your work inside of `code.js`
-
-Follow the instructions provided on my.kenzie.academy for this assignment.
+Javascript code that uses Flickr images  based on the location of the user. Will display a set Number of pictures and will add more to the screen as the user presses next.
